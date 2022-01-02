@@ -1,7 +1,4 @@
-from candle import Candle
-from datetime import datetime
-from pandas import DataFrame
-from binance.client import Client
+from domain_classes.candle import Candle
 
 
 class Asset:
